@@ -61,5 +61,5 @@ GROUP BY
     direction.id_Direction, direction.nom;
 
 -- Exercice 10
-CALL insert_schedule('06:32', '06:41', '00:01');
+CALL insert_horaire('06:32', '06:41', '00:01');
 SELECT horaire FROM horaire
