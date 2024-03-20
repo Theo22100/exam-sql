@@ -1,9 +1,3 @@
-# Table des matières
-
-1. [Installation](#installation)
-2. [Conception](#conception)
-3. [Référence](#référence)
-
 # Installation et utilisation
 
 ## 1. Télécharger le fichier
@@ -73,5 +67,5 @@ id_Arret_NonDesservi et id_Arret_Redirection dans la table redirectionstempo : L
 
 MCD réalisé avec WorkBench :
 
-<img src="./img/mcd.png">
+<img src="./img/schemaFinal.png">
 
