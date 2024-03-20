@@ -1,4 +1,13 @@
-# Installation et utilisation
+# Sommaire
+
+1. [Installation et Requêtes](#installation)
+2. [Exercice 8](#exercice8)
+3. [Exercice 9](#exercice9)
+4. [MCD](#mcd)
+5. [Références](#ref)
+
+
+# Installation et utilisation<a name="installation"></a>
 
 ## 1. Télécharger le fichier
 
@@ -38,7 +47,7 @@ Effectuer la même étape qu'au dessus mais pour le fichier data.sql
 
 Effectuer la même étape qu'au dessus mais pour le fichier queries.sql
 
-## 6. Exercice 8
+## 6. Exercice 8<a name="exercice8"></a>
 
 ### Fonctionnement Index
 
@@ -57,7 +66,7 @@ Un Index Hash est un index de hachage organise les données dans une table de ha
 
 En résumé, les index de type B-Tree et de hachage sont deux méthodes couramment utilisées pour accélérer l'accès aux données dans une base de données. Cependant, l'index Hash utilise une structure de table de hachage, offrant des recherches rapides pour des valeurs exactes mais ne prenant pas en charge les recherches par plage ni le tri des données alors que l'index B-Tree si.
 
-## 7. Exercice 9
+## 7. Exercice 9<a name="exercice9"></a>
 
 id_Arret dans la table arrets : Cette colonne est souvent utilisée pour rechercher des arrêts spécifiques
 
@@ -69,9 +78,15 @@ id_Horaire dans la table horaires et arretshoraires : Les requêtes impliquent f
 
 id_Arret_NonDesservi et id_Arret_Redirection dans la table redirectionstempo : Les requêtes concernent les redirections d'arrêts
 
-## MCD
+## 8.MCD<a name="mcd"></a>
 
 MCD réalisé avec WorkBench :
 
 <img src="./img/schemaFinal.png">
+
+## 9. Références<a name="ref"></a>
+
+https://stackoverflow.com
+https://chat.openai.com
+https://dev.mysql.com/
 
