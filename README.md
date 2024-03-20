@@ -46,10 +46,9 @@ Lorsqu'une requête est exécutée, la base de données peut utiliser cet index 
 
 Un Index B-Tree organise les données sous forme d'arbre équilibré où chaque nœud contient plusieurs clés triées, permettant des recherches efficaces et des intervalles de recherche. L'avantage principal de l'index B-Tree est sa polyvalence, car il peut être utilisé pour des opérations de recherche exacte ainsi que des recherches par plage.
 
-### Conclusion
-
 Un Index Hash est un index de hachage organise les données dans une table de hachage, où les valeurs de la colonne indexée sont hachées pour générer une clé de hachage. Cette clé est ensuite utilisée pour accéder directement à la position de la valeur dans la table. Il ne peut pas être utilisé pour trier les données.
 
+### Conclusion
 
 En résumé, les index de type B-Tree et de hachage sont deux méthodes couramment utilisées pour accélérer l'accès aux données dans une base de données. Cependant, l'index Hash utilise une structure de table de hachage, offrant des recherches rapides pour des valeurs exactes mais ne prenant pas en charge les recherches par plage ni le tri des données alors que l'index B-Tree si.
 
