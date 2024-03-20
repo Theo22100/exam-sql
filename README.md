@@ -85,8 +85,8 @@ MCD réalisé avec WorkBench :
 <img src="./img/schemaFinal.png">
 
 ## 9. Références<a name="ref"></a>
-
+<li>
 https://stackoverflow.com
 https://chat.openai.com
 https://dev.mysql.com/
-
+</li>
