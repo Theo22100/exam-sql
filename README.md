@@ -11,7 +11,7 @@
 
 ## 1. Télécharger le fichier
 
-https://github.com/Theo22100/exam-sql/tree/main
+https://github.com/Theo22100/exam-sql/
 
 ## 2. Création de la BDD :
 
