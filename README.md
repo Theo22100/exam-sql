@@ -12,6 +12,11 @@ Lancer MySQL Workbench, choississez un profil avec des droits (le profil root pa
 
 Puis Clique droit sur la fenêtre schéma -> Create Schema
 
+Mettez :
+```bash
+exam_sql_bus
+```
+
 Puis Apply, une autre page apparait, veuillez appuyer sur Apply
 
 Puis Finish
